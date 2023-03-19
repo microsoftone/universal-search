@@ -27,7 +27,7 @@ const searchResults : SearchResult[] = [
   pieces : 20,
   pickupDate : "2023-03-18",
   serviceDate : "2023-03-20",
-  shipmentTags : ["CC", "UC"],
+  shipmentTags : ["LT-CC", "UC"],
   status : "Disabled"
   },
   
